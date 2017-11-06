@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Song Quiz</string>
+    <string name="api_key">apikey=YjdiOWViZjEtZTUyMC00MjJjLWFmMzMtN2FhMDI0ODIxMWY3&amp;</string>
+    <string name="web_service_url">http://api.napster.com/v2.2/tracks/top?limit=1&amp;</string>
+    <string name="offset">offset=</string>
+    <string name="start_text">Press \"Start\" to begin quiz</string>
+
+</resources>
